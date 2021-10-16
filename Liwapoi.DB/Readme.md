@@ -1,0 +1,2 @@
+To create entity framework context and models run script in the Package manager console (select LoraWan.DB in package manager console as default project):
+Scaffold-DbContext "Server=127.0.0.1;Port=5432;User Id=postgres;Password=postgres;Database=Liwapoi_WarnApp;Persist Security Info=true;" Npgsql.EntityFrameworkCore.PostgreSQL -o Models -f

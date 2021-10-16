@@ -1,0 +1,12 @@
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\bin\Debug\net5.0\Liwapoi.Common.deps.json
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\bin\Debug\net5.0\Liwapoi.Common.dll
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\bin\Debug\net5.0\ref\Liwapoi.Common.dll
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\bin\Debug\net5.0\Liwapoi.Common.pdb
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.csproj.AssemblyReference.cache
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.AssemblyInfoInputs.cache
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.AssemblyInfo.cs
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.csproj.CoreCompileInputs.cache
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.dll
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\ref\Liwapoi.Common.dll
+C:\Users\SafeerNajeeb\source\repos\Liwapoi\Liwapoi.Common\obj\Debug\net5.0\Liwapoi.Common.pdb
